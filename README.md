@@ -28,4 +28,4 @@ Grab access token off the URL.
 `<script type="text/javascript" src="js/ajax.js"></script>`
 4. To insert the feed, add `<ul id="igfeed"></ul>`
 
-*TODO:* We need a way to include config.js directly into igfeed.js for simplicity.
+*TODO:* We need a way to include config.js directly into igfeed.js for simplicity
